@@ -4,6 +4,7 @@ import {
   LayoutDashboard,
   Users,
   Calendar,
+  CreditCard,
   Package,
   UserCog,
   BarChart2,
